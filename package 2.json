@@ -1,0 +1,23 @@
+{
+  "name": "gamefuldesign",
+  "version": "1.0.0",
+  "description": "artwebsite for gamefuldesign",
+  "main": "index.html",
+  "scripts": {
+    "test": "node ./bin/www”",
+    "scss": "node-sass --watch css -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastiReiss/GamefulDesign.git"
+  },
+  "author": "Basti Reiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BastiReiss/GamefulDesign/issues"
+  },
+  "homepage": "https://github.com/BastiReiss/GamefulDesign#readme",
+  "dependencies": {
+    "sass-node": "^4.11.2"
+  }
+}
